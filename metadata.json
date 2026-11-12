@@ -1,0 +1,6 @@
+{
+  "name": "Meter Shifting Management – TPWODL Titlagarh Section",
+  "description": "Android-first utility application for TPWODL Titlagarh Section supervisors to track, update, and manage 374+ consumer meter shifting records offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
